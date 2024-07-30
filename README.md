@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eric. 
-- 👀 I’m interested in Python programming 
-- 🌱 I’m currently learning Python Programming. 
+- 👀 I’m interested in Python programming, DevOps, Azure Cloud, Terraform, and more
+- 🌱 I’m currently learning Github Actions. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
